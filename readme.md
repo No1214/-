@@ -5,9 +5,8 @@
 -MySQL 8.0.17 （数据库education存储信息）
 
 #准备文件
-create.sql 建表语句
-
-fk.sql 插入外键语句
+1. create.sql 建表语句
+2. fk.sql 插入外键语句
 
 #界面设计文件
 1. admin.ui  管理员界面
