@@ -1,11 +1,12 @@
 #数据库设计项目教学管理系统
 
-## Required
+##Required
 -Qt 5.12.2
 -MySQL 8.0.17 （数据库education存储信息）
 
-# 准备文件
+#准备文件
 create.sql 建表语句
+
 fk.sql 插入外键语句
 
 #界面设计文件
